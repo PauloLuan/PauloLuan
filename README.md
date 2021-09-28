@@ -1,4 +1,4 @@
-# Paulo Batata Luan :man_technologist:
+# Paulo Batata Luan :potato:
 
 [![Instagram](https://img.shields.io/badge/instagram-9cf?logo=instagram&style=for-the-badge&link=http://bit.ly/reativa-insta)](http://bit.ly/reativa-insta)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://bit.ly/pauloluan)](https://bit.ly/pauloluan)
