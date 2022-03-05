@@ -5,4 +5,4 @@
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/pauloluan)](https://dev.to/pauloluan)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@reativa)](https://medium.com/@reativa)
 
-### :writing_hand: "What we know is a drop, what we don't know is an ocean." ― Isaac Newton
+### :writing_hand: "To the developer who invented null: thanks for nothing."
